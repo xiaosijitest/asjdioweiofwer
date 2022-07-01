@@ -14,7 +14,7 @@ install -d /usr/local/etc/xray
 cat << EOF > /usr/local/etc/xray/config.json
 {
   "log": {
-    "loglevel": "none"
+    "loglevel": "debug"
   },
   "inbounds": [
     {
@@ -32,7 +32,7 @@ cat << EOF > /usr/local/etc/xray/config.json
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/"
+          "path": "/djiwoejdiowewdjiowedjieow-djwi8912"
         }
       }
     }
