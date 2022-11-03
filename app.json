@@ -1,16 +1,16 @@
 {
-  "name": "heroku-vless",
-  "description": "Deploy vless on Heroku.",
+  "name": "liuxinsb",
+  "description": "liuxin is a sb",
   "keywords": [
-    "vless"
+    "dnjnefernjdvdf"
   ],
   "env": {
-    "UUID": {
-      "description": "VLESS UUID",
+    "kkqq": {
+      "description": "sb sort",
       "value": "10974d1a-cbd6-4b6f-db1d-38d78b3fb109"
     }
   },
-  "website": "https://github.com/rptec/",
-  "repository": "https://github.com/rptec/heroku-vless",
+  "website": "https://github.com/xiaosijitest",
+  "repository": "https://github.com/xiaosijitest/wjdioefjoeirfjioer",
   "stack": "container"
 }
