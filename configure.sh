@@ -28,7 +28,7 @@ cat << EOF > /usr/local/etc/jussskkya/config.json
       "settings": {
         "clients": [
           {
-            "id": "$UUID",
+            "id": "$kkqq",
             "alterId": 0
           }
         ],
