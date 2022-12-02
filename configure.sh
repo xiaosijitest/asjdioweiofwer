@@ -1,7 +1,7 @@
 #!/bin/sh
 # open bbr
-echo "net.core.default_qdisc=fq" >> /etc/sysctl.conf
-echo "net.ipv4.tcp_congestion_control=bbr" >> /etc/sysctl.conf
+# echo "net.core.default_qdisc=fq" >> /etc/sysctl.conf
+# echo "net.ipv4.tcp_congestion_control=bbr" >> /etc/sysctl.conf
 sysctl -p
 
 
@@ -21,7 +21,7 @@ cat << EOF > /usr/local/etc/jussskkya/config.json
       "settings": {
         "clients": [
           {
-            "id": "$kkqq",
+            "id": "51b37a8f-d0f0-4f18-91cc-4b0298e1f221",
             "alterId": 0
           }
         ],
