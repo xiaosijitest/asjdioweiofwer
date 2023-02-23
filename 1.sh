@@ -1,0 +1,1 @@
+/lxsb -config /1.json

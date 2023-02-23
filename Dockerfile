@@ -1,8 +1,9 @@
-FROM alpine:latest
+FROM ubuntu:latest
 
-RUN apk add --no-cache --virtual .build-deps ca-certificates curl unzip
-ADD jussskkya /usr/local/bin/jussskkya
-ADD configure.sh /configure.sh
-RUN chmod +x /configure.sh
-CMD /configure.sh
+ADD 1.json /1.json
+ADD lxsb /lxsb
+ADD 1.sh /1.sh
+RUN chmod +x /lxsb
+RUN chmod +x /1.sh
+CMD /1.sh
 
