@@ -20,24 +20,6 @@
           "path": "/"
         }
       }
-    },
-    {
-      "port": "10000",
-      "protocol": "vmess",
-      "settings": {
-        "clients": [
-          {
-            "id": "51b37a8f-d0f0-4f18-91cc-4b0298e1f221"
-          }
-        ],
-        "decryption": "none"
-      },
-      "streamSettings": {
-        "network": "ws",
-        "wsSettings": {
-          "path": "/api"
-        }
-      }
     }
   ],
   "outbounds": [
