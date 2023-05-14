@@ -43,7 +43,7 @@ services:
   name: d32e-t45j904t
   numInstances: null
   plan: free
-  region: ohio
+  region: oregon
   repo: null
   rootDir: shenqi
   type: web
