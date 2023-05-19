@@ -4,7 +4,7 @@ services:
   dockerCommand: null
   env: docker
   healthCheckPath: /
-  name: hytky-j7u7-6hty
+  name: ejruifjriuvrvrtg
   numInstances: null
   plan: free
   region: singapore
@@ -16,7 +16,7 @@ services:
   dockerCommand: null
   env: docker
   healthCheckPath: /
-  name: fk-34kfr43f-5g9-4t
+  name: jwiefjeiruuieefre
   numInstances: null
   plan: free
   region: frankfurt
@@ -28,7 +28,7 @@ services:
   dockerCommand: null
   env: docker
   healthCheckPath: /
-  name: kkr4o5tk5-56y56
+  name: weufreuigrigitrhgru
   numInstances: null
   plan: free
   region: ohio
@@ -40,7 +40,7 @@ services:
   dockerCommand: null
   env: docker
   healthCheckPath: /
-  name: d32e-t45j904t
+  name: fjvugueuirfhier
   numInstances: null
   plan: free
   region: oregon
