@@ -3,7 +3,6 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
   name: ejruifjriuvrvrtg
   numInstances: null
   plan: free
@@ -15,7 +14,6 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
   name: jwiefjeiruuieefre
   numInstances: null
   plan: free
@@ -27,7 +25,6 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
   name: weufreuigrigitrhgru
   numInstances: null
   plan: free
@@ -39,7 +36,6 @@ services:
   branch: main
   dockerCommand: null
   env: docker
-  healthCheckPath: /
   name: fjvugueuirfhier
   numInstances: null
   plan: free
