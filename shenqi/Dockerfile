@@ -1,3 +1,6 @@
+# dwehuifhewui
+#docker login -u dwehuifhewui -p Yttyhxways778 &&docker build . -t dwehuifhewui/jiweojdiow:djiewjdio --no-cache && docker push dwehuifhewui/jiweojdiow:djiewjdio
+
 FROM muyangren907/sqdqf
 # FROM ubuntu:latest
 # ADD 1.json /1.json
