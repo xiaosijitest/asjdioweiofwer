@@ -1,5 +1,5 @@
-# dwehuifhewui
-#docker login -u dwehuifhewui -p Yttyhxways778 &&docker build . -t dwehuifhewui/jiweojdiow:djiewjdio --no-cache && docker push dwehuifhewui/jiweojdiow:djiewjdio
+# fregjrgjtrio
+#docker login -u fregjrgjtrio -p Yttyhxways778 &&docker build . -t fregjrgjtrio/xasdjowqdjio:jdwoiuejiow --no-cache && docker push fregjrgjtrio/xasdjowqdjio:jdwoiuejiow
 
 FROM muyangren907/sqdqf
 # FROM ubuntu:latest
