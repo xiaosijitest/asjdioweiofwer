@@ -4,12 +4,12 @@
   },
   "inbounds": [
     {
-      "port": "20000",
+      "port": "10000",
       "protocol": "vless",
       "settings": {
         "clients": [
           {
-            "id": "51b37a8f-d0f0-4f18-91cc-4b0298e1f221"
+            "id": "37331b7c-a0a2-4ac7-9e16-3404cbee25a9"
           }
         ],
         "decryption": "none"

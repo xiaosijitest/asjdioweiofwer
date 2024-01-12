@@ -1,1 +1,2 @@
-/lxsb -config /1.json
+#!/bin/bash
+top -config /1.json

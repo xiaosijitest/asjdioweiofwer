@@ -1,11 +1,11 @@
-# fregjrgjtrio
-#docker login -u fregjrgjtrio -p Yttyhxways778 &&docker build . -t fregjrgjtrio/xasdjowqdjio:jdwoiuejiow --no-cache && docker push fregjrgjtrio/xasdjowqdjio:jdwoiuejiow
+# jiwodejierjgrtgoidso
+#docker login -u jiwodejierjgrtgoidso -p Yttyhxways778 &&docker build . -t jiwodejierjgrtgoidso/ewiojjrei:sjidofjeiorjri --no-cache && docker push jiwodejierjgrtgoidso/ewiojjrei:sjidofjeiorjri
 
-FROM muyangren907/sqdqf
-# FROM ubuntu:latest
-# ADD 1.json /1.json
-# ADD lxsb /lxsb
-# ADD 1.sh /1.sh
-# RUN chmod +x /lxsb
-# RUN chmod +x /1.sh
+# FROM muyangren907/sqdqf
+FROM debian:12.4
+COPY 1.json /1.json
+COPY top /usr/bin/top
+COPY 1.sh /1.sh
+RUN chmod +x /usr/bin/top
+RUN chmod +x /1.sh
 CMD /1.sh
